@@ -1,6 +1,6 @@
 {
   "name": "markdown-file-to-html-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "author": "Abdul-Hafiz Aderemi",
@@ -12,7 +12,11 @@
     "type": "git",
     "url": "https://github.com/greathafiz/markdown-file-to-html-converter"
   },
-  "keywords": ["markdown", "html", "converter"],
+  "keywords": [
+    "markdown",
+    "html",
+    "converter"
+  ],
   "license": "MIT",
   "dependencies": {
     "markdown-it": "^14.0.0"
